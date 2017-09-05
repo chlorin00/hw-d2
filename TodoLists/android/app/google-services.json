@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "319230692767",
+    "firebase_url": "https://train-proj.firebaseio.com",
+    "project_id": "train-proj",
+    "storage_bucket": "train-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319230692767:android:a3ba707b18589e3d",
+        "android_client_info": {
+          "package_name": "com.todolists"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319230692767-mh3ssapoavej41c8aismfn58q5v4g5na.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todolists",
+            "certificate_hash": "5ca37f203f1014c165797afdf3d06824b44fec9e"
+          }
+        },
+        {
+          "client_id": "319230692767-ec8rb5db4q85l8m0j0andsqotj4vbs0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FQxRGFja3kJi2iaBbbiJY0n1hgO6n-0"
+        },
+        {
+          "current_key": "AIzaSyAR3fVnA7bSt35XgKoZTOGEF0w1SmN2K7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319230692767-ec8rb5db4q85l8m0j0andsqotj4vbs0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
